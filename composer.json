@@ -1,0 +1,15 @@
+{
+    "name": "stanley/vaultx",
+    "description": "A password manager written in PHP using MVC and OOP",
+    "authors": [
+        {   "name": "Stanley Lalanne",
+            "homepage": "https://github.com/stanleylalanne",
+            "role": "Principal Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+          "src/"
+        ]
+    }
+}
